@@ -15,7 +15,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
 
-  // read bme sensor data
+  // read bme sensor data...
 }
 
 // put function definitions here:
